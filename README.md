@@ -7,6 +7,6 @@ Each branches contain a lesson demonstrates different use cases.
 ------------
 You need to use the latest Canary version of Android Studio 4.2.
 You can clone this repository or import the
-project from Android Studio following the steps
+project from Android Studio following the steps.
 
 
